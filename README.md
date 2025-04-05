@@ -1,4 +1,4 @@
-🛒 Shopping Cart
+# 🛒 Shopping Cart
 Shopping Cart is a modern and minimal web application built with React, Redux, and Tailwind CSS. It allows users to browse products, add or remove them from the cart, and view a dynamically updated total price. The app is responsive, fast, and easy to use.
 
 🚀 Features
